@@ -1,0 +1,44 @@
+{
+	"Name": "Pineapple Cupcake",
+	"Description": "Split your cake in two and share with a friend.",
+	"Category": "Cooking",
+	"Edibility": 40,
+	"Price": 290,
+	"IsColored": false,
+	"Recipe":
+  		{
+     "ResultCount": 2,
+        "Ingredients": [
+        {
+            "Object": "Pineapple",
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        }, 
+        {
+            "Object": "Wheat Flour",
+            "Count": 1,
+        },
+        {
+            "Object": "Sugar",
+            "Count": 1,
+        },
+       	{
+            "Object": -5,
+            "Count": 1,
+        },  
+],
+        "IsDefault":false,
+        "CanPurchase": true,
+              "PurchaseFrom": "Gus",
+              "PurchasePrice": 2900,  
+   },
+     "GiftTastes":
+      {
+        "Love": [ "Jodi", "Elliott" ],
+        "Like": [ "Sandy", "Pam", "Robin", "Leah", "Linus", "Demetrius", "Kent", "Shane"],
+        "Dislike": ["Harvey", "Krobus", "Leo", "Willy", "Abigail", "Haley", "Jas", "Vincent"],
+    },
+}

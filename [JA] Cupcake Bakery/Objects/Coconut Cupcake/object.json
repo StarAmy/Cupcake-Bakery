@@ -1,0 +1,44 @@
+{
+	"Name": "Coconut Cupcake",
+	"Description": "Split your cake in two and share with a friend.",
+	"Category": "Cooking",
+	"Edibility": 22,
+	"Price": 240,
+	"IsColored": false,
+	"Recipe":
+  		{
+     "ResultCount": 2,
+        "Ingredients": [
+        {
+            "Object": "Coconut",
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        }, 
+        {
+            "Object": "Wheat Flour",
+            "Count": 1,
+        },
+        {
+            "Object": "Sugar",
+            "Count": 1,
+        },
+       	{
+            "Object": -5,
+            "Count": 1,
+        },  
+],
+        "IsDefault":false,
+        "CanPurchase": true,
+              "PurchaseFrom": "Gus",
+              "PurchasePrice": 2400,  
+   },
+     "GiftTastes":
+   {
+        "Love": [ "Haley", "Linus" ],
+        "Like": [ "Jodi", "Evelyn", "Robin", "Leah", "Demetrius", "Wizard", "Gus", "Sam", "Maru", "Emily", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "George", "Jas", "Kent", "Lewis", "Marnie", "Pam", "Penny", "Pierre", "Sandy", "Shane", "Vincent", "Sebastian"],
+        "Dislike": [ "Harvey", "Krobus", "Leo", "Willy", "Abigail"],
+    },
+}

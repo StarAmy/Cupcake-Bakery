@@ -1,0 +1,10 @@
+{
+	"Name": "[JA] Cupcake Bakery",
+	"Author": "StarAmy",
+	"Version": "1.0.0",
+	"Description": "Adds new cupcake baking recipes.",
+	"UniqueID": "StarAmy.Cupcakes",
+	"ContentPackFor": {
+		"UniqueID": "spacechase0.JsonAssets"
+	}
+}

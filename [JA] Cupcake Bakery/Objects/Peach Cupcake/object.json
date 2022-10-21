@@ -1,0 +1,44 @@
+{
+	"Name": "Peach Cupcake",
+	"Description": "Split your cake in two and share with a friend.",
+	"Category": "Cooking",
+	"Edibility": 26,
+	"Price": 210,
+	"IsColored": false,
+	"Recipe":
+  		{
+     "ResultCount": 2,
+        "Ingredients": [
+        {
+            "Object": "Peach",
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        }, 
+        {
+            "Object": "Wheat Flour",
+            "Count": 1,
+        },
+        {
+            "Object": "Sugar",
+            "Count": 1,
+        },
+       	{
+            "Object": -5,
+            "Count": 1,
+        },  
+],
+        "IsDefault":false,
+        "CanPurchase": true,
+              "PurchaseFrom": "Gus",
+              "PurchasePrice": 2100,  
+   },
+     "GiftTastes":
+     {
+        "Love": [ "Robin" ],
+        "Like": [ "Jodi", "Evelyn", "Abigail", "Leah", "Linus", "Demetrius", "Wizard", "Gus", "Sam", "Maru", "Emily", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "George", "Jas", "Kent", "Lewis", "Marnie", "Pam", "Penny", "Pierre", "Sandy", "Shane", "Vincent", "Haley", "Sebastian"],
+        "Neutral": [ "Harvey", "Krobus", "Leo", "Willy" ],
+    },
+}

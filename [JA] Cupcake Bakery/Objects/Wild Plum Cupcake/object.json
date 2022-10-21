@@ -1,0 +1,44 @@
+{
+	"Name": "Wild Plum Cupcake",
+	"Description": "Split your cake in two and share with a friend.",
+	"Category": "Cooking",
+	"Edibility": 25,
+	"Price": 180,
+	"IsColored": false,
+	"Recipe":
+  		{
+     "ResultCount": 2,
+        "Ingredients": [
+        {
+            "Object": "Wild Plum",
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        }, 
+        {
+            "Object": "Wheat Flour",
+            "Count": 1,
+        },
+        {
+            "Object": "Sugar",
+            "Count": 1,
+        },
+       	{
+            "Object": -5,
+            "Count": 1,
+        },  
+],
+        "IsDefault":false,
+        "CanPurchase": true,
+              "PurchaseFrom": "Gus",
+              "PurchasePrice": 1800,  
+   },
+     "GiftTastes":
+    {
+        "Love": [ "Sandy", "Pam"],
+        "Like": [ "Jodi", "Robin", "Leah", "Linus", "Demetrius", "Elliott", "Kent", "Shane"],
+        "Dislike": ["Harvey", "Krobus", "Leo", "Willy", "Abigail", "Haley", "Jas", "Vincent"],
+    },
+}

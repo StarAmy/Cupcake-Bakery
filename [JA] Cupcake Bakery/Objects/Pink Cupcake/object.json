@@ -1,0 +1,44 @@
+{
+	"Name": "Pink Cupcake",
+	"Description": "Split your cake in two and share with a friend.",
+	"Category": "Cooking",
+	"Edibility": 30,
+	"Price": 265,
+	"IsColored": false,
+	"Recipe":
+  		{
+     "ResultCount": 2,
+        "Ingredients": [
+        {
+            "Object": "Melon",
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        }, 
+        {
+            "Object": "Wheat Flour",
+            "Count": 1,
+        },
+        {
+            "Object": "Sugar",
+            "Count": 1,
+        },
+       	{
+            "Object": -5,
+            "Count": 1,
+        },  
+],
+        "IsDefault":false,
+        "CanPurchase": true,
+              "PurchaseFrom": "Gus",
+              "PurchasePrice": 2650,  
+   },
+     "GiftTastes":
+   {
+        "Love": [ "Jas", "Marnie", "Vincent", "Haley" ],
+        "Like": [ "Jodi", "Evelyn", "Abigail", "Robin", "Linus", "Demetrius", "Wizard", "Gus", "Sam", "Maru", "Emily", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "George", "Kent", "Lewis", "Pam", "Penny", "Pierre", "Sandy", "Shane", "Sebastian"],
+        "Dislike": ["Harvey", "Krobus", "Leo", "Willy", "Leah"],
+    },
+}

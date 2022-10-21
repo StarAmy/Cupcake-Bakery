@@ -1,0 +1,44 @@
+{
+	"Name": "Blueberry Cupcake",
+	"Description": "Split your cake in two and share with a friend.",
+	"Category": "Cooking",
+	"Edibility": 25,
+	"Price": 165,
+	"IsColored": false,
+	"Recipe":
+  		{
+     "ResultCount": 2,
+        "Ingredients": [
+        {
+            "Object": "Blueberry",
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        }, 
+        {
+            "Object": "Wheat Flour",
+            "Count": 1,
+        },
+        {
+            "Object": "Sugar",
+            "Count": 1,
+        },
+       	{
+            "Object": -5,
+            "Count": 1,
+        },  
+],
+        "IsDefault":false,
+        "CanPurchase": true,
+              "PurchaseFrom": "Gus",
+              "PurchasePrice": 1650,  
+   },
+     "GiftTastes":
+     {
+        "Love": [ "Lewis" ],
+        "Like": [ "Jodi", "Elliott", "Sandy", "Pam", "Robin", "Leah", "Linus", "Demetrius", "Kent", "Shane"],
+        "Dislike": ["Harvey", "Krobus", "Leo", "Willy", "Abigail", "Haley", "Jas", "Vincent"],
+    },
+}

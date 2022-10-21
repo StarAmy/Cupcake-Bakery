@@ -1,0 +1,44 @@
+{
+	"Name": "Banana Cupcake",
+	"Description": "Split your cake in two and share with a friend.",
+	"Category": "Cooking",
+	"Edibility": 32,
+	"Price": 215,
+	"IsColored": false,
+	"Recipe":
+  		{
+     "ResultCount": 2,
+        "Ingredients": [
+        {
+            "Object": "Banana",
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        }, 
+        {
+            "Object": "Wheat Flour",
+            "Count": 1,
+        },
+        {
+            "Object": "Sugar",
+            "Count": 1,
+        },
+       	{
+            "Object": -5,
+            "Count": 1,
+        },  
+],
+        "IsDefault":false,
+        "CanPurchase": true,
+              "PurchaseFrom": "Gus",
+              "PurchasePrice": 2150,  
+   },
+     "GiftTastes":
+    {
+        "Love": [ "Sandy", "Kent", "Elliott" ],
+        "Like": [ "Jodi", "Pam", "Robin", "Leah", "Linus", "Demetrius", "Shane"],
+        "Dislike": ["Harvey", "Krobus", "Leo", "Willy", "Abigail", "Haley", "Jas", "Vincent"],
+    },
+}

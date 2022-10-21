@@ -1,0 +1,44 @@
+{
+	"Name": "Maple Cupcake",
+	"Description": "Split your cake in two and share with a friend.",
+	"Category": "Cooking",
+	"Edibility": 22,
+	"Price": 240,
+	"IsColored": false,
+	"Recipe":
+  		{
+     "ResultCount": 2,
+        "Ingredients": [
+        {
+            "Object": "Maple Syrup",
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        }, 
+        {
+            "Object": "Wheat Flour",
+            "Count": 1,
+        },
+        {
+            "Object": "Sugar",
+            "Count": 1,
+        },
+       	{
+            "Object": -5,
+            "Count": 1,
+        },  
+],
+        "IsDefault":false,
+        "CanPurchase": true,
+              "PurchaseFrom": "Gus",
+              "PurchasePrice": 2400,  
+   },
+     "GiftTastes":
+   {
+        "Love": [ "Sam" ],
+        "Like": [ "Jodi", "Evelyn", "Abigail", "Robin", "Leah", "Linus", "Demetrius", "Wizard", "Gus", "Emily", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "George", "Jas", "Kent", "Lewis", "Marnie", "Pam", "Penny", "Pierre", "Sandy", "Shane", "Vincent", "Haley", "Sebastian"],
+        "Dislike": ["Harvey", "Krobus", "Leo", "Willy", "Maru"],
+    },
+}

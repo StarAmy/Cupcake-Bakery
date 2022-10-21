@@ -1,0 +1,44 @@
+{
+	"Name": "Hazelnut Cupcake",
+	"Description": "Split your cake in two and share with a friend.",
+	"Category": "Cooking",
+	"Edibility": 24,
+	"Price": 185,
+	"IsColored": false,
+	"Recipe":
+  		{
+     "ResultCount": 2,
+        "Ingredients": [
+        {
+            "Object": "Hazelnut",
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        }, 
+        {
+            "Object": "Wheat Flour",
+            "Count": 1,
+        },
+        {
+            "Object": "Sugar",
+            "Count": 1,
+        },
+       	{
+            "Object": -5,
+            "Count": 1,
+        },  
+],
+        "IsDefault":false,
+        "CanPurchase": true,
+              "PurchaseFrom": "Gus",
+              "PurchasePrice": 1850,  
+   },
+     "GiftTastes":
+    {
+        "Love": [ "Leah", "Linus" ],
+        "Like": [ "Evelyn", "Abigail", "Harvey", "Robin", "Demetrius", "Gus", "Maru", "Emily", "Alex", "Clint", "George",  "Kent", "Lewis", "Marnie", "Pam", "Penny", "Sandy" ],
+        "Dislike": [ "Krobus", "Leo", "Willy", "Jodi", "Wizard", "Sam", "Caroline", "Dwarf", "Elliott", "Jas", "Pierre", "Shane", "Vincent", "Haley", "Sebastian" ],
+    },
+}

@@ -1,0 +1,44 @@
+{
+	"Name": "Coffee Cupcake",
+	"Description": "Split your cake in two and share with a friend.",
+	"Category": "Cooking",
+	"Edibility": 22,
+	"Price": 150,
+	"IsColored": false,
+	"Recipe":
+  		{
+     "ResultCount": 2,
+        "Ingredients": [
+        {
+            "Object": "Coffee Bean",
+            "Count": 1,
+        },
+        {
+            "Object": -6,
+            "Count": 1,
+        }, 
+        {
+            "Object": "Wheat Flour",
+            "Count": 1,
+        },
+        {
+            "Object": "Sugar",
+            "Count": 1,
+        },
+       	{
+            "Object": -5,
+            "Count": 1,
+        },  
+],
+        "IsDefault":false,
+        "CanPurchase": true,
+              "PurchaseFrom": "Gus",
+              "PurchasePrice": 1500,  
+   },
+     "GiftTastes":
+     {
+        "Love": [ "Gus" ],
+        "Like": [ "Harvey", "Caroline", "Lewis" , "Jodi", "Evelyn", "Abigail", "Robin", "Leah", "Linus", "Demetrius", "Wizard", "Sam", "Maru", "Emily", "Alex", "Clint", "Dwarf", "Elliott", "George", "Kent", "Marnie", "Pam", "Penny", "Pierre", "Sandy", "Shane", "Haley", "Sebastian"],
+        "Dislike": [ "Krobus", "Leo", "Willy", "Jas", "Vincent"],
+    },
+}
